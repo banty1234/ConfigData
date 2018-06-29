@@ -2,9 +2,4 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
-words:
-  kiran
-  akshay
-  mahesh
-  anway
-  hanmant
+words: kiran,akshay,mahesh,anway,hanmant
